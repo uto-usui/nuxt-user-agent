@@ -1,5 +1,5 @@
 {
-  "name": "uto@nuxt-user-agent",
+  "name": "@uto-usui/nuxt-user-agent",
   "version": "0.1.1",
   "description": "Nuxt.js module for handling User-Agent.",
   "keywords": [
