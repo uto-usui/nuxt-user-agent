@@ -1,6 +1,6 @@
 {
   "name": "nuxt-detect-ua",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Nuxt.js module for handling User-Agent.",
   "keywords": [
     "Nuxt.js",
