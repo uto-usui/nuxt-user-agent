@@ -1,17 +1,23 @@
 {
-  "name": "nuxt-user-agent",
-  "version": "1.0.1",
+  "name": "uto@nuxt-user-agent",
+  "version": "0.1.1",
   "description": "Nuxt.js module for handling User-Agent.",
   "keywords": [
     "Nuxt.js",
     "nuxt",
+    "Vue.js",
+    "vue",
     "module",
     "UserAgent"
   ],
   "main": "lib/module.js",
-  "repository": "https://github.com/fukuiretu/nuxt-user-agent",
-  "author": "fukuiretu",
+  "repository": "https://github.com/uto-usui/nuxt-user-agent",
+  "author": "uto-usui <me@uto-usui.com> (https://uto-usui.com) / fukuiretu",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uto-usui/nuxt-user-agent/issues"
+  },
+  "homepage": "https://github.com/uto-usui/nuxt-user-agent/blob/master/README.md",
   "dependencies": {
     "woothee": "^1.7.0"
   }
