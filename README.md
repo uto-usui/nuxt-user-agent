@@ -1,4 +1,4 @@
-# nuxt-user-agent
+# nuxt-detect-ua
 
 <p align="center">
   <a href="https://camo.qiitausercontent.com/d50f55237fc27bec84cbd86060cb9be1391cee78/687474703a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d626c75652e7376673f7374796c653d666c6174" target="_blank" rel="nofollow noopener">
@@ -13,14 +13,14 @@ Forked from [nuxt-user-agent](https://github.com/fukuiretu/nuxt-user-agent).
 ## Setup
 
 ```bath
-yarn add nuxt-user-agent
+yarn add nuxt-detect-ua
 ```
 
 
 ```nuxt.config.js
 module.exports = {
   modules: [
-    'nuxt-user-agent',
+    'nuxt-detect-ua',
   ]
 }
 ```
